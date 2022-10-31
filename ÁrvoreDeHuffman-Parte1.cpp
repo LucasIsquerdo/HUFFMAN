@@ -64,8 +64,6 @@ void InsereFila(Fila **fila, Tree *no)
 	}
 }
 
-
-
 void InsereRegistro(Lista **lista, Lista *l)
 {
 	Lista *aux;
